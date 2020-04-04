@@ -2,4 +2,4 @@
 Practicing Gatsbyjs by creating a simple blogs site.
 
 # Deployed via Surge at:
-gatsbyjs-fluffy-parent.surge.sh
+(copy & paste into browser) gatsbyjs-fluffy-parent.surge.sh
